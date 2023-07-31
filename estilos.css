@@ -16,7 +16,6 @@ body{
     background-color: #15173c;
     color: white;
     width: 350px;
-    max-width: 50%;
     padding: 1.5rem;
     border-radius: 1rem;
     display: grid;
@@ -66,4 +65,10 @@ body{
 
 #igual:hover{
     background-color: #e65766;
+}
+
+@media(max-width:500px){
+    .calculadora{
+        width: 80%;
+    }
 }
