@@ -1,4 +1,5 @@
-Link : https://github.com/melina-frias/calculadora
+Link: https://melina-frias.github.io/calculadora/
+
 # Calculadora HTML/CSS/JS
 ## Calculadora
 
